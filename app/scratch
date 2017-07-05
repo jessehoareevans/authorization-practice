@@ -1,0 +1,4 @@
+id: 3,
+email: "this@mail.com",
+password_hash: "$2a$10$RoTIPb.zDEb1BTYuYWJCg.GhBo6yQqbFvG.M3ij86/eTHW.Mq46ce",
+password_salt: "$2a$10$RoTIPb.zDEb1BTYuYWJCg.">
